@@ -1,5 +1,5 @@
 # 💫 About Me:
-i build full stack ai powered apps solving real world issues one at a time n coming up with creative ideas with cute designs
+i build full stack ai powered apps solving real world issues one at a time n coming up with creative ideas with cute designs :) <3
 
 
 ## 🌐 Socials:
@@ -15,19 +15,4 @@ i build full stack ai powered apps solving real world issues one at a time n com
 ---
 [![](https://komarev.com/ghpvc/?username=someonekilledhasu&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**someonekilledhasu/someonekilledhasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
