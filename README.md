@@ -1,5 +1,5 @@
 # 💫 About Me:
-i build full stack ai powered apps solving real world issues one at a time n coming up with creative ideas with cute designs :) <3
+i build stuff :) <3
 
 
 ## 🌐 Socials:
