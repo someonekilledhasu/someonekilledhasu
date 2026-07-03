@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=220&section=header&text=Hasini%20Thota&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=she%20codes%20✨🎀&descAlignY=58&descSize=22" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="35"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="35"/>
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" color="FF69B4">
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=welcome+to+my+corner+of+github+%F0%9F%8E%80;i+build+cute+little+things+%3A%29;fueled+by+chai+%2B+pink+things+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=welcome+to+my+corner+of+github+%F0%9F%8E%80;i+build+cute+little+things+%3A%29;fueled+by+coffee+%2B+pink+things+%F0%9F%8C%B8" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -87,7 +87,3 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 </div>
-
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25"/>
-</p>
