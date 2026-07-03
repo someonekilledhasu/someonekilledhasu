@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=220&section=header&text=Hasini%20Thota&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=she%20codes%20✨🎀&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/banner.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="35"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="35"/>
@@ -31,6 +31,7 @@
 🌸 i build stuff :) <3
 🩷 B.Tech — AI & Data Science, SPSU Udaipur
 🎀 shipping cute, useful, live AI-powered apps
+🌷 into carnatic music, MUN, hackathons + heritage travel
 ```
 
 </td>
@@ -88,8 +89,5 @@
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25"/>
-  <b><i>thanks for stopping by, come back soon! 🎀</i></b>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25"/>
 </p>
