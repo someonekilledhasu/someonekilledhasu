@@ -1,0 +1,77 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hasini Thota</title>
+  <desc id="desc">An indie gallery wall inspired banner with muted frames and subtle moving light.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6c7c7d"/>
+      <stop offset="52%" stop-color="#52636a"/>
+      <stop offset="100%" stop-color="#3d464a"/>
+    </linearGradient>
+    <linearGradient id="warmLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d7a847" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d7a847" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#d7a847" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#1f2425" flood-opacity="0.38"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.3"/>
+    </filter>
+    <pattern id="grain" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="7" r="1" fill="#efe4c7" opacity="0.12"/>
+      <circle cx="28" cy="20" r="1.2" fill="#2f3334" opacity="0.12"/>
+      <circle cx="15" cy="31" r="0.8" fill="#efe4c7" opacity="0.1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="24" fill="url(#wall)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grain)" opacity="0.9"/>
+  <rect y="0" width="1200" height="68" fill="url(#warmLight)" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="-220 0;220 0;-220 0" dur="12s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0.72" stroke="#2f3334" stroke-width="3" filter="url(#shadow)">
+    <g transform="translate(70 58) rotate(-3)">
+      <rect width="96" height="120" rx="5" fill="#2f3334"/>
+      <rect x="10" y="10" width="76" height="100" rx="2" fill="#efe4c7"/>
+      <text x="48" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2f3334">what if</text>
+      <text x="48" y="84" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#a94b3b">it works</text>
+    </g>
+    <g transform="translate(190 34) rotate(2)">
+      <rect width="86" height="106" rx="5" fill="#2f3334"/>
+      <rect x="10" y="10" width="66" height="86" fill="#d7a847"/>
+      <circle cx="43" cy="53" r="21" fill="none" stroke="#2f3334" stroke-width="5"/>
+    </g>
+    <g transform="translate(910 42) rotate(3)">
+      <rect width="105" height="76" rx="5" fill="#2f3334"/>
+      <rect x="10" y="10" width="85" height="56" fill="#a94b3b"/>
+      <text x="52" y="45" text-anchor="middle" font-family="Inter, Verdana, sans-serif" font-size="18" font-weight="700" fill="#efe4c7">ship</text>
+    </g>
+    <g transform="translate(1048 120) rotate(-4)">
+      <rect width="86" height="112" rx="5" fill="#2f3334"/>
+      <rect x="10" y="10" width="66" height="92" fill="#57648c"/>
+      <path d="M22 72 C36 42 52 42 66 72" fill="none" stroke="#efe4c7" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(112 218) rotate(2)">
+      <rect width="104" height="56" rx="5" fill="#2f3334"/>
+      <rect x="10" y="10" width="84" height="36" fill="#4b3b32"/>
+      <circle cx="52" cy="28" r="12" fill="none" stroke="#d7a847" stroke-width="4"/>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="302" y="78" width="596" height="158" rx="18" fill="#2f3334" opacity="0.84"/>
+    <rect x="322" y="96" width="556" height="122" rx="10" fill="#efe4c7"/>
+    <text x="600" y="153" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#2f3334">Hasini Thota</text>
+    <text x="600" y="190" text-anchor="middle" font-family="Inter, Verdana, sans-serif" font-size="17" letter-spacing="2" fill="#52636a">AI + DATA SCIENCE</text>
+  </g>
+
+  <g opacity="0.65">
+    <circle cx="0" cy="0" r="4" fill="#d7a847" filter="url(#soft)">
+      <animateMotion path="M305 252 C430 276 770 276 895 252" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M350 254 H850" stroke="#d7a847" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+    <path d="M350 261 H850" stroke="#2f3334" stroke-width="1" stroke-linecap="round" opacity="0.45"/>
+  </g>
+</svg>

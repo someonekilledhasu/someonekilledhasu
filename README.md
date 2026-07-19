@@ -1,95 +1,87 @@
-<!--
-  Hasini's GitHub profile
-  Custom animated SVGs live in /assets and are embedded with <img> tags so GitHub
-  renders the visuals themselves.
--->
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/coquette-celestial-banner.svg" width="100%" alt="Hasini Thota animated pink celestial banner" />
+  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/indie-gallery-banner.svg" width="100%" alt="Hasini Thota indie gallery profile banner" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=900&color=FF5FBF&center=true&vCenter=true&width=720&lines=welcome+to+my+pink-coded+corner+of+github;building+cute%2C+useful%2C+AI-powered+things;coffee+%2B+carnatic+music+%2B+sparkly+commits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=900&color=D7A847&center=true&vCenter=true&width=720&lines=quiet+interfaces%2C+useful+systems;AI+%2B+data+science+%2B+clean+product+thinking;making+things+that+feel+considered" alt="Typing SVG" />
 
   <br/>
 
   <a href="https://linkedin.com/in/hasini-thota-1406a3377">
-    <img src="https://img.shields.io/badge/LinkedIn-FF7ABC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-52636A?style=for-the-badge&logo=linkedin&logoColor=EFE4C7" alt="LinkedIn" />
   </a>
   <a href="https://pinterest.com/yeahwtvhi">
-    <img src="https://img.shields.io/badge/Pinterest-FFB6D9?style=for-the-badge&logo=pinterest&logoColor=8A4B75" alt="Pinterest" />
+    <img src="https://img.shields.io/badge/Pinterest-D7A847?style=for-the-badge&logo=pinterest&logoColor=2F3334" alt="Pinterest" />
   </a>
   <a href="mailto:hasinithota13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5FBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-A94B3B?style=for-the-badge&logo=gmail&logoColor=EFE4C7" alt="Email" />
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/sparkle-divider.svg" width="100%" alt="sparkle divider" />
+<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/indie-divider.svg" width="100%" alt="indie divider" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/love-letter-console.svg" width="92%" alt="animated love letter console about Hasini" />
+  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/about-board.svg" width="92%" alt="about Hasini board" />
 </div>
 
 <br/>
 
 <div align="center">
 
-| little dev diary | details |
+| currently | quietly building |
 |:--|:--|
 | studying | B.Tech - AI & Data Science, SPSU Udaipur |
-| building | cute, useful, live AI-powered apps |
-| side quests | MUN, hackathons, heritage travel, open source |
-| background music | Carnatic music |
-| current vibe | making GitHub look like a tiny software scrapbook |
+| interested in | AI tools, data products, thoughtful interfaces |
+| building style | practical first, polished second, shipped always |
+| current mood | indie wall-gallery, clean commits, better defaults |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/sparkle-divider.svg" width="100%" alt="sparkle divider" />
+<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/indie-divider.svg" width="100%" alt="indie divider" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/tech-orbit.svg" width="92%" alt="animated tech stack orbit" />
+  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/stack-board.svg" width="92%" alt="Hasini tech stack board" />
 </div>
 
 <br/>
 
 <div align="center">
 
-### tech stack, but make it blush
+### tools I reach for
 
-<img src="https://img.shields.io/badge/Python-FFD6EA?style=for-the-badge&logo=python&logoColor=8A4B75&labelColor=FFF5FB" alt="Python" />
-<img src="https://img.shields.io/badge/C-FFB6D9?style=for-the-badge&logo=c&logoColor=8A4B75&labelColor=FFF5FB" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-FF8FC7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FFF5FB" alt="C++" />
-<img src="https://img.shields.io/badge/Java-FFD6EA?style=for-the-badge&logo=openjdk&logoColor=8A4B75&labelColor=FFF5FB" alt="Java" />
-<img src="https://img.shields.io/badge/R-FFB6D9?style=for-the-badge&logo=r&logoColor=8A4B75&labelColor=FFF5FB" alt="R" />
-<img src="https://img.shields.io/badge/JavaScript-FF8FC7?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFF5FB" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-FFD6EA?style=for-the-badge&logo=typescript&logoColor=8A4B75&labelColor=FFF5FB" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=8A4B75&labelColor=FFF5FB" alt="HTML5" />
+<img src="https://img.shields.io/badge/Python-52636A?style=for-the-badge&logo=python&logoColor=EFE4C7&labelColor=2F3334" alt="Python" />
+<img src="https://img.shields.io/badge/C-3D464A?style=for-the-badge&logo=c&logoColor=EFE4C7&labelColor=2F3334" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-57648C?style=for-the-badge&logo=cplusplus&logoColor=EFE4C7&labelColor=2F3334" alt="C++" />
+<img src="https://img.shields.io/badge/Java-A94B3B?style=for-the-badge&logo=openjdk&logoColor=EFE4C7&labelColor=2F3334" alt="Java" />
+<img src="https://img.shields.io/badge/R-D7A847?style=for-the-badge&logo=r&logoColor=2F3334&labelColor=EFE4C7" alt="R" />
+<img src="https://img.shields.io/badge/JavaScript-D7A847?style=for-the-badge&logo=javascript&logoColor=2F3334&labelColor=EFE4C7" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-52636A?style=for-the-badge&logo=typescript&logoColor=EFE4C7&labelColor=2F3334" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-A94B3B?style=for-the-badge&logo=html5&logoColor=EFE4C7&labelColor=2F3334" alt="HTML5" />
 <br/>
-<img src="https://img.shields.io/badge/React-FF8FC7?style=for-the-badge&logo=react&logoColor=white&labelColor=FFF5FB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-FFD6EA?style=for-the-badge&logo=react&logoColor=8A4B75&labelColor=FFF5FB" alt="React Native" />
-<img src="https://img.shields.io/badge/Next.js-FFB6D9?style=for-the-badge&logo=nextdotjs&logoColor=8A4B75&labelColor=FFF5FB" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-FF8FC7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=FFF5FB" alt="Node.js" />
-<img src="https://img.shields.io/badge/Supabase-FFD6EA?style=for-the-badge&logo=supabase&logoColor=8A4B75&labelColor=FFF5FB" alt="Supabase" />
-<img src="https://img.shields.io/badge/MongoDB-FFB6D9?style=for-the-badge&logo=mongodb&logoColor=8A4B75&labelColor=FFF5FB" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Vercel-FF8FC7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFF5FB" alt="Vercel" />
-<img src="https://img.shields.io/badge/Netlify-FFD6EA?style=for-the-badge&logo=netlify&logoColor=8A4B75&labelColor=FFF5FB" alt="Netlify" />
+<img src="https://img.shields.io/badge/React-52636A?style=for-the-badge&logo=react&logoColor=EFE4C7&labelColor=2F3334" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-3D464A?style=for-the-badge&logo=react&logoColor=EFE4C7&labelColor=2F3334" alt="React Native" />
+<img src="https://img.shields.io/badge/Next.js-2F3334?style=for-the-badge&logo=nextdotjs&logoColor=EFE4C7&labelColor=52636A" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-4B3B32?style=for-the-badge&logo=nodedotjs&logoColor=EFE4C7&labelColor=2F3334" alt="Node.js" />
+<img src="https://img.shields.io/badge/Supabase-52636A?style=for-the-badge&logo=supabase&logoColor=EFE4C7&labelColor=2F3334" alt="Supabase" />
+<img src="https://img.shields.io/badge/MongoDB-3D464A?style=for-the-badge&logo=mongodb&logoColor=EFE4C7&labelColor=2F3334" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Vercel-2F3334?style=for-the-badge&logo=vercel&logoColor=EFE4C7&labelColor=52636A" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-57648C?style=for-the-badge&logo=netlify&logoColor=EFE4C7&labelColor=2F3334" alt="Netlify" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/sparkle-divider.svg" width="100%" alt="sparkle divider" />
+<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/indie-divider.svg" width="100%" alt="indie divider" />
 
 <div align="center">
 
 ### stats cabinet
 
-<img src="https://github-readme-stats.vercel.app/api?username=someonekilledhasu&show_icons=true&hide_border=true&title_color=FF5FBF&icon_color=FF8FC7&text_color=7C5A72&bg_color=FFF5FB" height="165" alt="Hasini GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonekilledhasu&layout=compact&hide_border=true&title_color=FF5FBF&text_color=7C5A72&bg_color=FFF5FB" height="165" alt="Hasini top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=someonekilledhasu&show_icons=true&hide_border=true&title_color=D7A847&icon_color=A94B3B&text_color=EFE4C7&bg_color=2F3334" height="165" alt="Hasini GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonekilledhasu&layout=compact&hide_border=true&title_color=D7A847&text_color=EFE4C7&bg_color=2F3334" height="165" alt="Hasini top languages" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/footer-ribbon.svg" width="100%" alt="animated footer ribbon" />
+  <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/footer-note.svg" width="100%" alt="quiet footer note" />
 </div>
-

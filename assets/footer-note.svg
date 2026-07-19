@@ -1,0 +1,19 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Footer note</title>
+  <desc id="desc">A quiet indie footer note.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3d464a"/>
+      <stop offset="100%" stop-color="#2f3334"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" rx="22" fill="url(#bg)"/>
+  <rect x="210" y="36" width="780" height="58" rx="8" fill="#efe4c7" opacity="0.92"/>
+  <text x="600" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#2f3334">made with taste, caffeine, and commit discipline</text>
+  <circle cx="243" cy="65" r="5" fill="#a94b3b">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="957" cy="65" r="5" fill="#d7a847">
+    <animate attributeName="opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
