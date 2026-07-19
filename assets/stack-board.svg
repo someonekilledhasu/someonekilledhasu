@@ -12,8 +12,8 @@
   </defs>
   <rect x="28" y="24" width="944" height="208" rx="22" fill="#2f3334" filter="url(#shadow)"/>
   <rect x="52" y="46" width="896" height="164" rx="12" fill="url(#bg)"/>
-  <text x="96" y="91" font-family="Georgia, serif" font-size="34" fill="#2f3334">stack, in rotation</text>
-  <text x="96" y="122" font-family="Inter, Verdana, sans-serif" font-size="16" fill="#52636a">small tools, real outputs, clean handoff</text>
+  <text x="96" y="91" font-family="'Cormorant Garamond', Georgia, serif" font-size="33" fill="#2f3334">stack, in rotation</text>
+  <text x="96" y="122" font-family="Inter, Verdana, sans-serif" font-size="15" fill="#52636a">small tools, real outputs, clean handoff</text>
 
   <g font-family="Inter, Verdana, sans-serif" font-size="15" font-weight="700">
     <g transform="translate(96 152)">
@@ -42,7 +42,7 @@
     </g>
   </g>
 
-  <path d="M760 80 C802 58 858 58 900 80 C858 102 802 102 760 80 Z" fill="none" stroke="#a94b3b" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="d" values="M760 80 C802 58 858 58 900 80 C858 102 802 102 760 80 Z;M760 80 C802 70 858 50 900 80 C858 110 802 90 760 80 Z;M760 80 C802 58 858 58 900 80 C858 102 802 102 760 80 Z" dur="5s" repeatCount="indefinite"/>
+  <path d="M738 84 C796 54 850 112 916 78" fill="none" stroke="#b97970" stroke-width="5" stroke-linecap="round" opacity="0.78">
+    <animate attributeName="d" values="M738 84 C796 54 850 112 916 78;M738 78 C800 106 850 54 916 84;M738 84 C796 54 850 112 916 78" dur="6s" repeatCount="indefinite"/>
   </path>
 </svg>

@@ -3,7 +3,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=900&color=D7A847&center=true&vCenter=true&width=720&lines=quiet+interfaces%2C+useful+systems;AI+%2B+data+science+%2B+clean+product+thinking;making+things+that+feel+considered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=900&color=B97970&center=true&vCenter=true&width=720&lines=fluid+interfaces%2C+useful+systems;AI+%2B+data+science+%2B+clean+product+thinking;soft+visuals%2C+sharp+logic" alt="Typing SVG" />
 
   <br/>
 
@@ -68,19 +68,6 @@
 <img src="https://img.shields.io/badge/Netlify-57648C?style=for-the-badge&logo=netlify&logoColor=EFE4C7&labelColor=2F3334" alt="Netlify" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/indie-divider.svg" width="100%" alt="indie divider" />
-
-<div align="center">
-
-### stats cabinet
-
-<img src="https://github-readme-stats.vercel.app/api?username=someonekilledhasu&show_icons=true&hide_border=true&title_color=D7A847&icon_color=A94B3B&text_color=EFE4C7&bg_color=2F3334" height="165" alt="Hasini GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonekilledhasu&layout=compact&hide_border=true&title_color=D7A847&text_color=EFE4C7&bg_color=2F3334" height="165" alt="Hasini top languages" />
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/someonekilledhasu/someonekilledhasu/main/assets/footer-note.svg" width="100%" alt="quiet footer note" />

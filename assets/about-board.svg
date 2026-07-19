@@ -11,20 +11,23 @@
     </filter>
   </defs>
   <rect x="26" y="24" width="948" height="190" rx="22" fill="url(#wall)" filter="url(#shadow)"/>
-  <rect x="58" y="50" width="282" height="138" rx="8" fill="#2f3334"/>
-  <rect x="72" y="64" width="254" height="110" rx="4" fill="#efe4c7"/>
-  <text x="94" y="104" font-family="Georgia, serif" font-size="30" fill="#2f3334">currently</text>
-  <text x="94" y="138" font-family="Inter, Verdana, sans-serif" font-size="17" fill="#52636a">turning ideas into</text>
-  <text x="94" y="161" font-family="Inter, Verdana, sans-serif" font-size="17" fill="#52636a">working product experiments</text>
+  <path d="M44 166 C220 128 310 194 452 154 C590 116 718 158 954 100" fill="none" stroke="#b97970" stroke-width="18" stroke-linecap="round" opacity="0.25">
+    <animate attributeName="d" values="M44 166 C220 128 310 194 452 154 C590 116 718 158 954 100;M44 154 C210 146 322 172 452 144 C604 112 720 172 954 112;M44 166 C220 128 310 194 452 154 C590 116 718 158 954 100" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <rect x="58" y="50" width="250" height="138" rx="8" fill="#2f3334"/>
+  <rect x="72" y="64" width="222" height="110" rx="4" fill="#efe4c7"/>
+  <text x="94" y="104" font-family="'Cormorant Garamond', Georgia, serif" font-size="29" fill="#2f3334">currently</text>
+  <text x="94" y="137" font-family="Inter, Verdana, sans-serif" font-size="16" fill="#52636a">building practical</text>
+  <text x="94" y="160" font-family="Inter, Verdana, sans-serif" font-size="16" fill="#52636a">AI product ideas</text>
 
   <g font-family="Inter, Verdana, sans-serif">
-    <text x="392" y="84" font-size="13" letter-spacing="2" fill="#d7a847">ABOUT</text>
-    <text x="392" y="122" font-size="31" font-weight="700" fill="#efe4c7">AI + Data Science student</text>
-    <text x="392" y="157" font-size="18" fill="#d8d1bf">I like systems that are useful, calm, and finished well.</text>
-    <text x="392" y="186" font-size="18" fill="#d8d1bf">My sweet spot is practical AI, clean interfaces, and shipping the idea.</text>
+    <text x="364" y="84" font-size="13" letter-spacing="2" fill="#d7a847">ABOUT</text>
+    <text x="364" y="120" font-size="28" font-weight="700" fill="#efe4c7">AI + Data Science student</text>
+    <text x="364" y="154" font-size="17" fill="#d8d1bf">useful systems, cleaner interfaces, finished details</text>
+    <text x="364" y="181" font-size="17" fill="#d8d1bf">soft visuals, sharp logic, shipped work</text>
   </g>
 
-  <g transform="translate(860 72)">
+  <g transform="translate(856 72)">
     <rect width="64" height="82" rx="5" fill="#2f3334"/>
     <rect x="8" y="8" width="48" height="66" rx="2" fill="#a94b3b"/>
     <path d="M20 53 L32 27 L44 53 Z" fill="#efe4c7"/>
