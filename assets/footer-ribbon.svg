@@ -1,0 +1,54 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Footer ribbon</title>
+  <desc id="desc">Animated pink footer ribbon thanking visitors.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff6fb"/>
+      <stop offset="55%" stop-color="#ffd6ea"/>
+      <stop offset="100%" stop-color="#f7d7ff"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8fc7"/>
+      <stop offset="50%" stop-color="#ff5fbf"/>
+      <stop offset="100%" stop-color="#b78cff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="spark" d="M0 -9 L2 -2 L9 0 L2 2 L0 9 L-2 2 L-9 0 L-2 -2 Z"/>
+  </defs>
+
+  <rect width="1200" height="160" rx="28" fill="url(#bg)"/>
+  <rect x="120" y="46" width="960" height="68" rx="28" fill="#fffafb" stroke="#ffffff" stroke-width="2" opacity="0.78"/>
+  <path d="M158 80 H1042" stroke="url(#stripe)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M500 80 C540 56 660 56 700 80 C660 104 540 104 500 80 Z" fill="#ffd6ea" stroke="#ff8fc7" stroke-width="2"/>
+  <circle cx="600" cy="80" r="12" fill="#ff5fbf" filter="url(#glow)">
+    <animate attributeName="r" values="10;14;10" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="88" text-anchor="middle" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="700" fill="#7c5a72">thanks for visiting my tiny pink GitHub universe</text>
+
+  <g fill="#ffffff" filter="url(#glow)">
+    <use href="#spark" x="178" y="34">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" x="1022" y="34">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" x="246" y="126" transform="scale(0.7)">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.4s" begin="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#spark" x="954" y="126" transform="scale(0.7)">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.2s" begin="0.9s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <circle cx="0" cy="80" r="4" fill="#ffffff" filter="url(#glow)">
+    <animateMotion path="M150 0 H1050 H150" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>
